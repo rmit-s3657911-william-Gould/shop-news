@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome To The Website!",
+      "body": "Welcome everyone to the new e-commerce website which will facilitate the needs of users into the future."
+    },
+    {
+      "id": 2,
+      "title": "New Features",
+      "body": "We plan to be adding new features every week to improve user experience."
+    },
+    {
+      "id": 3,
+      "title": "Promo Codes",
+      "body": "Stay tuned into news to get promo codes for your orders!"
+    }
+  ]
+}
